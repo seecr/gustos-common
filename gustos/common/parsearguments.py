@@ -53,6 +53,6 @@ class ParseArguments(object):
         try:
             return self._parse(args=args)
         except ValueError as e:
-            print('\033[1;31m%s\033[0m' % str(e))
+            print(('\033[1;31m%s\033[0m' % str(e)))
             self.print_help()
             exit(1)
