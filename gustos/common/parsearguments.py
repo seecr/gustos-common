@@ -2,7 +2,7 @@
 #
 # "Gustos" is a monitoring tool by Seecr. These are the open source parts used in different projects.
 #
-# Copyright (C) 2011-2014, 2018 Seecr (Seek You Too B.V.) https://seecr.nl
+# Copyright (C) 2011-2014, 2018, 2021 Seecr (Seek You Too B.V.) https://seecr.nl
 # Copyright (C) 2012 Stichting Bibliotheek.nl (BNL) http://www.bibliotheek.nl
 #
 # This file is part of "Gustos-Common"
