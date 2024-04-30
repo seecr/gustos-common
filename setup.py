@@ -25,7 +25,7 @@
 from distutils.core import setup
 from os import walk
 
-version = '$Version: master$'[9:-1].strip()
+version = '$Version: 0$'[9:-1].strip()
 
 packages = ['gustos']
 for path, dirs, files in walk('gustos'):
